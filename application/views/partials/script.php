@@ -1,0 +1,14 @@
+<script src="<?php echo base_url("assets/web/assets/jquery/jquery.min.js"); ?>"></script>
+  <script src="<?php echo base_url("assets/popper/popper.min.js"); ?>"></script>
+  <script src="<?php echo base_url("assets/bootstrap/js/bootstrap.min.js"); ?>"></script>
+  <script src="<?php echo base_url("assets/touchswipe/jquery.touch-swipe.min.js"); ?>"></script>
+  <script src="<?php echo base_url("assets/smoothscroll/smooth-scroll.js"); ?>"></script>
+  <script src="<?php echo base_url("assets/dropdown/js/nav-dropdown.js"); ?>"></script>
+  <script src="<?php echo base_url("assets/dropdown/js/navbar-dropdown.js"); ?>"></script>
+  <script src="<?php echo base_url("assets/tether/tether.min.js"); ?>"></script>
+  <script src="<?php echo base_url("assets/ytplayer/jquery.mb.ytplayer.min.js"); ?>"></script>
+  <script src="<?php echo base_url("assets/vimeoplayer/jquery.mb.vimeo_player.js"); ?>"></script>
+  <script src="<?php echo base_url("assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"); ?>"></script>
+  <script src="<?php echo base_url("assets/theme/js/script.js"); ?>"></script>
+  <script src="<?php echo base_url("assets/slidervideo/script.js"); ?>"></script>
+  <script src="<?php echo base_url("assets/formoid/formoid.min.js"); ?>"></script>
